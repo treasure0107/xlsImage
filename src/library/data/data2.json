@@ -1,0 +1,200 @@
+{
+  "tempName": "NO.003",
+  "contain": [
+    "img",
+    "text",
+    "qr"
+  ],
+  "dataRules": [
+    {
+      "obj": "text",
+      "index": 2,
+      "key": "value",
+      "prefix": "",
+      "name": "商品昵称"
+    },
+    {
+      "obj": "qr",
+      "index": 0,
+      "key": "text",
+      "prefix": "",
+      "name": "二维码跳转链接"
+    },
+    {
+      "obj": "img",
+      "index": 0,
+      "key": "url",
+      "prefix": "",
+      "name": "商品图片"
+    },
+    {
+      "obj": "text",
+      "index": 5,
+      "key": "value",
+      "prefix": "",
+      "name": "结束日期"
+    },
+    {
+      "obj": "text",
+      "index": 1,
+      "key": "value",
+      "prefix": "¥",
+      "name": "优惠价"
+    },
+    {
+      "obj": "text",
+      "index": 3,
+      "key": "value",
+      "prefix": "",
+      "name": "优惠值"
+    },
+    {
+      "obj": "text",
+      "index": 8,
+      "key": "value",
+      "prefix": "原价: ¥",
+      "name": "原价"
+    }
+  ],
+  "work": {
+    "width": 376,
+    "height": 667
+  },
+  "img": [
+    {
+      "url": "https://m.adooe.com/img/static/images/imgs.jpg",
+      "width": 376,
+      "height": 376,
+      "top": 143,
+      "left": 0,
+      "radius": 0
+    },
+    {
+      "url": "https://m.adooe.com/img/static/images/logo.jpg",
+      "width": 25,
+      "height": 25,
+      "top": 12,
+      "left": 15,
+      "radius": 30
+    }
+  ],
+  "text": [
+    {
+      "value": "小熊",
+      "width": 36,
+      "height": 25,
+      "color": "#333333",
+      "top": 15,
+      "left": 37,
+      "size": 12,
+      "weight": "initial",
+      "class": "work-text",
+      "align": "center"
+    },
+    {
+      "value": "¥9.90",
+      "width": 120,
+      "height": 40,
+      "color": "#8541cc",
+      "top": 533,
+      "left": 140,
+      "size": 21,
+      "weight": "600",
+      "class:": "work-text-left",
+      "align": "left"
+    },
+    {
+      "value": "【领劵】成人幼儿童舞蹈鞋软底帆布练功鞋芭蕾舞女童跳舞鞋形体瑜伽猫爪,蕾舞女童跳舞鞋形体瑜伽猫爪",
+      "width": 346,
+      "height": 53,
+      "color": "#272626",
+      "top": 45,
+      "left": 15,
+      "size": 19,
+      "align": "left",
+      "weight": "600",
+      "class": "work-text-hide"
+    },
+    {
+      "value": "满99元立减20元，领劵立减5元",
+      "width": 346,
+      "height": 30,
+      "color": "#727373",
+      "top": 108,
+      "left": 15,
+      "size": 16,
+      "align": "left",
+      "weight": "normal",
+      "class": "work-text-hide"
+    },
+    {
+      "value": "限时优惠",
+      "width": 70,
+      "height": 20,
+      "color": "#8559c8",
+      "top": 576,
+      "left": 140,
+      "size": 13,
+      "align": "left",
+      "weight": "normal",
+      "class": "coupon-2"
+    },
+    {
+      "value": "09月18日 09:00结束",
+      "width": 140,
+      "height": 20,
+      "color": "#ffffff",
+      "top": 576,
+      "left": 210,
+      "size": 13,
+      "align": "center",
+      "weight": "normal",
+      "class": "coupon-text-2"
+    },
+    {
+      "value": "分享来自 [小熊省钱大师]",
+      "width": 170,
+      "height": 30,
+      "color": "#727373",
+      "top": 608,
+      "left": 140,
+      "size": 14,
+      "align": "left",
+      "weight": "normal",
+      "class": ""
+    },
+    {
+      "value": "[长按立即领取]",
+      "width": 110,
+      "height": 30,
+      "color": "#9E9D9D",
+      "top": 637,
+      "left": 14,
+      "size": 13,
+      "align": "center",
+      "weight": "normal",
+      "class": ""
+    },
+    {
+      "value": "原价: ¥10元",
+      "width": 120,
+      "height": 20,
+      "color": "#cccccc",
+      "top": 539,
+      "left": 230,
+      "size":13,
+      "weight": "600",
+      "class": "price_zk",
+      "align": "left"
+    }
+  ],
+  "qr": [
+    {
+      "text": "https://m.adooe.com/web/goodsinfo?id=277",
+      "width": 105,
+      "height": 105,
+      "top": 528,
+      "left": 15
+    }
+  ]
+}

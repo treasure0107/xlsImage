@@ -1,0 +1,153 @@
+{
+  "tempName": "NO.004",
+  "contain": [
+    "img",
+    "text",
+    "qr"
+  ],
+  "dataRules": [
+    {
+      "obj": "text",
+      "index": 0,
+      "key": "value",
+      "prefix": "",
+      "name": "商品昵称"
+    },
+    {
+      "obj": "qr",
+      "index": 0,
+      "key": "text",
+      "prefix": "",
+      "name": "二维码跳转链接"
+    },
+    {
+      "obj": "img",
+      "index": 0,
+      "key": "url",
+      "prefix": "",
+      "name": "商品图片"
+    },
+    {
+      "obj": "text",
+      "index": 2,
+      "key": "value",
+      "prefix": "",
+      "name": "优惠价"
+    },
+    {
+      "obj": "text",
+      "index": 3,
+      "key": "value",
+      "prefix": "¥",
+      "name": "原价"
+    },
+    {
+      "obj": "text",
+      "index": 4,
+      "key": "value",
+      "prefix": "",
+      "name": "店铺"
+    }
+  ],
+  "work": {
+    "width": 376,
+    "height": 667
+  },
+  "img": [
+    {
+      "url": "https://m.adooe.com/img/static/images/goods.jpg",
+      "width": 376,
+      "height": 376,
+      "top": 50,
+      "left": 0,
+      "radius": 0
+    },
+    {
+      "url": "https://m.adooe.com/img/static/images/logo.jpg",
+      "width": 25,
+      "height": 25,
+      "top": 12,
+      "left": 10,
+      "radius": 30
+    },
+    {
+      "url": "https://m.adooe.com/img/static/images/open_taobao.jpg",
+      "width": 376,
+      "height": 100,
+      "top": 560,
+      "left": 0,
+      "radius": 0
+    }
+  ],
+  "text": [
+    {
+      "value": "HKH护肤品套装女去除细纹紧致抗皱抗衰老黑眼圈眼袋补水嫩白正品",
+      "width": 210,
+      "height": 70,
+      "color": "#585757",
+      "top": 439,
+      "left": 15,
+      "size": 24,
+      "weight": "initial",
+      "class": "data3-goods-text",
+      "align": "center"
+    },
+    {
+      "value": "¥",
+      "width": 20,
+      "height": "auto",
+      "color": "#ff9000",
+      "top": 528,
+      "left": 15,
+      "size": 15,
+      "weight": "600",
+      "class": "data3-goods-text",
+      "align": "center"
+    },
+    {
+      "value": "79.00",
+      "width": 100,
+      "height": "auto",
+      "color": "#ff9000",
+      "top": 520,
+      "left": 35,
+      "size": 22,
+      "weight": "600",
+      "class": "",
+      "align": "left"
+    },
+    {
+      "value": "¥79.00",
+      "width": 100,
+      "height": "auto",
+      "color": "#cccccc",
+      "top": 527,
+      "left": 115,
+      "size": 14,
+      "weight": "600",
+      "class": "price_zk",
+      "align": "right"
+    },
+    {
+      "value": "天猫旗舰店",
+      "width": 200,
+      "height": "auto",
+      "color": "#827F7F",
+      "top": 14,
+      "left": 45,
+      "size": 15,
+      "weight": "600",
+      "class": "",
+      "align": "left"
+    }
+  ],
+  "qr": [
+    {
+      "text": "https://m.adooe.com/web/goodsinfo?id=277",
+      "width": 105,
+      "height": 105,
+      "top": 443,
+      "left": 255
+    }
+  ]
+}
