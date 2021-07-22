@@ -25,7 +25,7 @@
     "vue": "^2.5.2",
     "vue-qart": "^2.1.0",
     "vue-router": "^3.0.1",
-    "xlsx": "^0.14.0",
+    "xlsx": "^0.17.0",
     "xlsx-style": "^0.8.13"
   },
   "devDependencies": {
